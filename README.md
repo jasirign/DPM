@@ -5,4 +5,4 @@ Deep Learning PDE Models
 
 Filtered DNS datasets are available at: https://drive.google.com/drive/folders/12FTODolzUUJR4kqjwBi6IUv6F6o_lrCm
 
-We plan to also make our LES code available in the future. In the meantime, we encourage ressearchers to contact us if interested in the code. 
+We plan to also make our LES code available in the future. In the meantime, we encourage researchers to contact us if interested in the code. 
